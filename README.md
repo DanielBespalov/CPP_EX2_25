@@ -33,16 +33,16 @@ A simple C++ library for square matrices of integers, implemented without using 
 
 ## Build & Run
 
-1. **Build demo**  
+1. **Build demo**
    make Main
    
-2. **Run unit tests**
-    make test
+3. **Run unit tests**
+   make test
    
-3. **Memory leak check**
+4. **Memory leak check**
    make valgrind
 
-4. **Clean**
+5. **Clean**
    make clean
    צ
 
