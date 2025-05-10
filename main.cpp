@@ -1,3 +1,7 @@
+/**
+ * danieldaniel2468@gmail.com
+ */
+
 #include <iostream>
 #include "SquareMat.hpp"
 
